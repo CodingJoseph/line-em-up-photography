@@ -20,12 +20,12 @@ This program. It serves to display the best symmetrical formation a given group 
 Input: Total number of people in group
 Output: Patterns showing number of people in each row, ASCII representations of each pattern
 Ex: Input: 20
-Output:    4 rows of 5                       5 rows of 4
-           O O O O O                          O O O O <br />
-            O O O O O                          O O O O <br />
-           O O O O O                          O O O O <br />
-            O O O O O                          O O O O <br />
-                                              O O O O <br />
+Output:    4 rows of 5                       5 rows of 4 <br />
+           O-O-O-O-O                          O-O-O-O <br />
+            O-O-O-O-O                          O-O-O-O <br />
+           O-O-O-O-O                          O-O-O-O <br />
+            O-O-O-O-O                          O-O-O-O <br />
+                                              O-O-O-O <br />
 # Authors
 ---
 Joseph Peery - @CodingJoseph
