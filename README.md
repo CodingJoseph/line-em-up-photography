@@ -23,10 +23,9 @@ It is also preferred that each row of people alternates a step so that each pers
 # Solution
 ---
 This program. It serves to display the best symmetrical formation a given group of people can take.
-Input: Total number of people in group
-Output: Patterns showing number of people in each row, ASCII representations of each pattern
-Ex: Input: 20
-Output: 4 rows of 5 (each row is offset by 1 step) <br />
+Input: Total number of people in group <br />
+Output: Patterns showing number of people in each row, ASCII representations of each pattern <br />
+Ex: Input: 20 ... Output: 4 rows of 5 (each row is offset by 1 step) <br />
 O-O-O-O-O <br />
 -O-O-O-O-O <br />
 O-O-O-O-O <br />
