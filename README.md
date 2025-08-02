@@ -1,4 +1,4 @@
-# Line 'Em Up
+# Line 'Em Up (Photography Web App)
 ## Determines optimal placement for large groups of people when photo time comes.
 
 # Problem
