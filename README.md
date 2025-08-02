@@ -1,4 +1,4 @@
-# photographer-problem
+# Line 'Em Up
 ## Determines optimal placement for large groups of people when photo time comes.
 
 # Problem
