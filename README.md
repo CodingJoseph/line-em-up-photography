@@ -15,7 +15,8 @@ OR <br />
 X-X-X-X-X-X <br />
 -O-O-O-O-O- <br />
 X-X-X-X-X-X <br />
-&nbsp;O-O-O-O-O- <br />
+-O-O-O-O-O- <br />
+
 Ideally, each row would have a different elevation (provided by either stairsteps or bleachers).
 It is also preferred that each row of people alternates a step so that each person's head is equally between the shoulders of the two people directly in the row behind them.
 
